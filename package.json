@@ -1,8 +1,9 @@
 {
   "name": "ifanyi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/main.js",
   "license": "MIT",
+  "description": "A command line translation tool",
   "bin": {
     "fy": "dist/cli.js"
   },

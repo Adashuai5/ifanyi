@@ -1,3 +1,5 @@
+# Install
+
 ```
 # NPM
 npm i ifanyi -g
